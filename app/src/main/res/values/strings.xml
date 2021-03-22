@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StegnoSecure</string>
+    <style name="activity_name">ENCODE</style>
+    <style name="activity_name2">DECODE</style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="external_files" path="."/>
+</paths>
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<paths xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <external-path name="steganography_images" path="Android/data/com.mydomain.fileprovider/files/Pictures" />-->
+<!--&lt;!&ndash;    <external-path name="external_files" path="."/>&ndash;&gt;-->
+<!--</paths>-->
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--</PreferenceScreen>-->
+

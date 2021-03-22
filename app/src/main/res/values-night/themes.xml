@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.StegnoSecure" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Theme of the editor -->
+    <style name="EncodingTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#15BEE4 </item>
+        <item name="colorPrimaryVariant">@color/editorColorPrimaryDark</item>
+        <item name="colorAccent">#129CBB</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="titleTextAppearance">@style/TextAppearance.AppCompat.Large</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorAccent</item>
+    </style>
+
+</resources>
