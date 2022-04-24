@@ -1,5 +1,5 @@
 
-# PashuCare
+# STEGNOSECURE
 
 An Android App which makes Secure Messaging Easy
 
